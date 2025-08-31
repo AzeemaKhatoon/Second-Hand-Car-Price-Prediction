@@ -1,3 +1,4 @@
+pip>=25.2
 streamlit
 scikit-learn
 category-encoders
