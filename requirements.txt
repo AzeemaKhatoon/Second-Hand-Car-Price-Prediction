@@ -1,5 +1,6 @@
 streamlit
 scikit-learn
+category-encoders
 joblib
 numpy
 pandas
